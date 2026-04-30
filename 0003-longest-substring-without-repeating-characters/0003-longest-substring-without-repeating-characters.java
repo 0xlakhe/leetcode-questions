@@ -18,7 +18,7 @@ class Solution {
         // }
         
         // return (longest==Integer.MIN_VALUE)?0:longest;
-                int longest=Integer.MIN_VALUE;
+        int longest=0;
         HashSet<Character> characters=new HashSet<>();
         int j=0;
 
@@ -35,6 +35,6 @@ class Solution {
             }
         }
 
-        return (longest==Integer.MIN_VALUE)?0:longest;
+        return longest;
     }
 }
