@@ -3,7 +3,7 @@ class Solution {
         for(int i=0;i<matrix.length;i++){
             int high=matrix[i].length-1;
             int low=0;
-            while(low<=high){
+                while(matrix[i][0]<=target && matrix[i][matrix[i].length-1]>=target && low<=high){
                 int mid=(high+low)/2;
                 if(matrix[i][mid]==target){
                     return true;
