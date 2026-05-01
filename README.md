@@ -10,6 +10,7 @@ My leetcodes
 | [0011-container-with-most-water](https://github.com/0xlakhe/leetcode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/0xlakhe/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ My leetcodes
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/0xlakhe/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/0xlakhe/leetcode-questions/tree/master/0704-binary-search) |
@@ -61,4 +63,8 @@ My leetcodes
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/0xlakhe/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
