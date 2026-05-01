@@ -2,6 +2,7 @@ class Solution {
     public List<Integer> findAnagrams(String s, String p) {
         int[] sFreq=new int[26];
         int[] pFreq=new int[26];
+        int index=0;
         ArrayList<Integer> indexes=new ArrayList<>();
 
         if(p.length()>s.length()){
@@ -19,10 +20,11 @@ class Solution {
 
         for(int j=p.length();j<s.length();j++){
             sFreq[s.charAt(j)-'a']++;
-            sFreq[s.charAt(j-p.length())-'a']--;
+            sFreq[s.charAt(index)-'a']--;
+            index++;
 
             if(Arrays.equals(sFreq, pFreq)){
-                indexes.add(j-p.length()+1);
+                indexes.add(index);
             }
         }
         return indexes;
