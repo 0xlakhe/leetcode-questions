@@ -1,17 +1,34 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        for(int i=0;i<matrix.length;i++){
-            int high=matrix[i].length-1;
-            int low=0;
-                while(matrix[i][0]<=target && matrix[i][matrix[i].length-1]>=target && low<=high){
-                int mid=(high+low)/2;
-                if(matrix[i][mid]==target){
-                    return true;
-                }else if(matrix[i][mid]<target){
-                    low=mid+1;
-                }else if(matrix[i][mid]>target){
-                    high=mid-1;
-                }
+        int low=0;
+        int high=matrix.length-1;
+        int matrixIndex=0;
+
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            int length=matrix[mid].length-1;
+
+            if(matrix[mid][0]<=target && matrix[mid][length]>=target){
+                matrixIndex=mid;
+                break;
+            }else if(matrix[mid][length]<target){
+                low=mid+1;
+            }else if(matrix[mid][0]>target){
+                high=mid-1;
+            }
+        }
+
+        int [] toSearch=matrix[matrixIndex];
+        int lw=0;
+        int hw= toSearch.length-1;
+        while (lw<=hw) {
+            int md=lw+(hw-lw)/2;
+            if(toSearch[md]==target){
+                return true;
+            }else if(toSearch[md]<target){
+                lw=md+1;
+            }else if(toSearch[md]>target){
+                hw=md-1;
             }
         }
         return false;
