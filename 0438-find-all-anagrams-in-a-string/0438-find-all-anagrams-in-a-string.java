@@ -22,15 +22,7 @@ class Solution {
 
         
         for(int j=p.length();j<=s.length();j++){
-            for(Character character:p.toCharArray()){
-                if(characters[character-'a']==toCompare[character-'a']){
-                    check = true;
-                }else{
-                    check=false;
-                    break;
-                }
-            }
-            if(check){
+            if(Arrays.equals(characters, toCompare)){
                 points.add(index);
             }
             Character toRemove=s.charAt(index);
