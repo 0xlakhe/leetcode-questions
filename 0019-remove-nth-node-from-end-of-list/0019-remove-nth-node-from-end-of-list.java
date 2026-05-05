@@ -49,24 +49,45 @@ class Solution {
         //     }
         //     return head;
         // }
+
+        // ListNode dummy=new ListNode(0);
+        // dummy.next=head;
+
+        // int count=0;
+        // ListNode current=head;
+        // while(current!=null){
+        //     current=current.next;
+        //     count+=1;
+        // }
+        // int index=count-n;
+
+        // ListNode previous=dummy;
+
+        // while(index>0){
+        //     previous=previous.next;
+        //     index--;
+        // }
+        // previous.next=previous.next.next;
+        // return dummy.next;
+
         ListNode dummy=new ListNode(0);
         dummy.next=head;
 
         int count=0;
-        ListNode current=head;
-        while(current!=null){
-            current=current.next;
-            count+=1;
-        }
-        int index=count-n;
+        ListNode high=dummy;
+        ListNode low=dummy;
 
-        ListNode previous=dummy;
-
-        while(index>0){
-            previous=previous.next;
-            index--;
+        while(count<n){
+            high=high.next;
+            count++;
         }
-        previous.next=previous.next.next;
+
+        while(high.next!=null){
+            high=high.next;
+            low=low.next;
+        }
+
+        low.next=low.next.next;
         return dummy.next;
     }
 }
