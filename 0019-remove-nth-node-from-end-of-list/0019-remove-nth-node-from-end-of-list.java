@@ -33,9 +33,9 @@ class Solution {
         //     count+=1;
         // }
         // return head;
-        if(head.next==null){
-            return head=head.next;
-        }
+        // if(head.next==null){
+        //     return head=head.next;
+        // }
 
         // if(head.next.next==null){
         //     if(n==1){
