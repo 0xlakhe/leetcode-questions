@@ -22,23 +22,18 @@ class Solution {
             return ans;
         }
         q.add(root);
-        ans.add(new ArrayList<>(List.of(root.val)));
         while(!q.isEmpty()){
             int size=q.size();
             ArrayList<Integer> nodes=new ArrayList<>();
             for(int i=0;i<size;i++){
                 TreeNode head=q.poll();
+                nodes.add(head.val);
                 if(head.left!=null){
                     q.add(head.left);
-                    nodes.add(head.left.val);
                 }
                 if(head.right!=null){
                     q.add(head.right);
-                    nodes.add(head.right.val);
                 }
-            }
-            if(nodes.isEmpty()){
-                continue;
             }
             ans.add(nodes);
         }
