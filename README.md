@@ -101,6 +101,7 @@ My leetcodes
 | [0104-maximum-depth-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -110,6 +111,7 @@ My leetcodes
 | [0104-maximum-depth-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -126,10 +128,12 @@ My leetcodes
 | [0104-maximum-depth-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
