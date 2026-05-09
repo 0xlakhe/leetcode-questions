@@ -3,14 +3,14 @@ class Solution {
         if(n<=2){
             return n;
         }
-
-        int[] array= new int[n+1];
-
-        array[1]=1;
-        array[2]=2;
+        int first=1;
+        int second=2;
+        int third=0;
         for(int i=3; i<=n;i++){
-            array[i]=array[i-1]+array[i-2];
+            third=first+second;
+            first=second;
+            second=third;           
         }
-        return array[n];
+        return third;
     }
 }
