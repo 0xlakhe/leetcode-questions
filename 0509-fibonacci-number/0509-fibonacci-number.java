@@ -1,8 +1,19 @@
 class Solution {
+    HashMap<Integer,Integer> map= new HashMap<>();
+    
     public int fib(int n) {
-        if(n==0 || n==1){
-            return n;
+        return calc(n);
+
+    }
+
+    public int calc(int i){
+        if(i==0||i==1){
+            return i;
         }
-        return fib(n-1)+fib(n-2);
+        if(map.containsKey(i)){
+            return map.get(i);
+        }
+        map.put(i,fib(i-1)+fib(i-2));
+        return map.get(i);
     }
 }
