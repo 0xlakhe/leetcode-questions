@@ -19,21 +19,17 @@ class Solution {
             int sum=carry;
             if(temp1!=null){
                 sum+=temp1.val;
+                temp1=temp1.next;
             }
             if(temp2!=null){
                 sum+=temp2.val;
+                temp2=temp2.next;
             }
             ListNode newNode=new ListNode(sum%10);
             carry=sum/10;
             
             current.next=newNode;
             current=current.next;
-            if(temp1!=null){
-                temp1=temp1.next;
-            }
-            if(temp2!=null){
-                temp2=temp2.next;
-            }
         }
 
         if(carry>0){
