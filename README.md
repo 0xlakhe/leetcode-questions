@@ -14,6 +14,7 @@ My leetcodes
 | [0039-combination-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/0xlakhe/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -176,4 +177,9 @@ My leetcodes
 | ------- |
 | [0039-combination-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
