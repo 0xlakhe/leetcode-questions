@@ -9,26 +9,6 @@ class Solution {
                 return 0;
             }
         }
-        // while(left<right){
-        //     while(val==nums[right]){
-        //         right-=1;
-        //         count+=1;
-        //         if(right<0){
-        //             break;
-        //         }
-        //     }
-        //     if(right<0){
-        //         break;
-        //     }
-        //     while(val==nums[left]){
-        //         nums[left]=nums[right];
-        //         nums[right]=Integer.MIN_VALUE;
-        //         count+=1;
-        //         right-=1;
-        //         left+=1;
-        //     }
-        //     left+=1;
-        // }
 
         while(left<=right){
             while(nums[left]==val){
