@@ -33,7 +33,15 @@ class Solution {
             }
         }
         if (check){
-            Arrays.sort(nums);
+            int i=nums.length-1;
+            int j=0;
+            while(i>j){
+                int temp = nums[j];
+                nums[j] = nums[i];
+                nums[i] = temp;
+                i--;
+                j++;
+            }
             return;
         }
         int i=nums.length-1;
