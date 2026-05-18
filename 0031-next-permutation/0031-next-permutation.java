@@ -26,41 +26,45 @@ class Solution {
         //     nums[right]=nums[left];
         //     nums[left]=temp;
         // }   
-        boolean check=true;
-        for(int i=1; i<nums.length;i++){
-            if(nums[i]>nums[i-1]){
-                check=false;
-            }
-        }
-        if (check){
-            int i=nums.length-1;
-            int j=0;
-            while(i>j){
-                int temp = nums[j];
-                nums[j] = nums[i];
-                nums[i] = temp;
-                i--;
-                j++;
-            }
-            return;
-        }
+        // boolean check=true;
+        // for(int i=1; i<nums.length;i++){
+        //     if(nums[i]>nums[i-1]){
+        //         check=false;
+        //     }
+        // }
+        // if (check){
+        //     int i=nums.length-1;
+        //     int j=0;
+        //     while(i>j){
+        //         int temp = nums[j];
+        //         nums[j] = nums[i];
+        //         nums[i] = temp;
+        //         i--;
+        //         j++;
+        //     }
+        //     return;
+        // }
+        
         int i=nums.length-1;
-        while(nums[i-1]>=nums[i]){
+        while(i>0 && nums[i-1]>=nums[i]){
             i--;
         }
-        int j=i-1;
-        i=nums.length-1;
-        while(i>j){
-            if(nums[i]>nums[j]){
-                int temp=nums[i];
-                nums[i]=nums[j];
-                nums[j]=temp;
-                break;
+        int j=0;
+        if(i>0){
+            j=i-1;
+            i=nums.length-1;
+            while(i>j){
+                if(nums[i]>nums[j]){
+                    int temp=nums[i];
+                    nums[i]=nums[j];
+                    nums[j]=temp;
+                    break;
+                }
+                i--;
             }
-            i--;
+            j+=1;
         }
         i=nums.length-1;
-        j+=1;
         while(i>j){
             int temp = nums[j];
             nums[j] = nums[i];
