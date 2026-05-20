@@ -19,6 +19,7 @@ My leetcodes
 | [0040-combination-sum-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/0xlakhe/leetcode-questions/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/0xlakhe/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@ My leetcodes
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/0xlakhe/leetcode-questions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/0xlakhe/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -80,6 +82,7 @@ My leetcodes
 | [0015-3sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/0xlakhe/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 ## Sliding Window
 |  |
 | ------- |
