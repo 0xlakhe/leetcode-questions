@@ -36,6 +36,7 @@ My leetcodes
 | [0001-two-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/0xlakhe/leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ My leetcodes
 | [0086-partition-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/0xlakhe/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/0xlakhe/leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
@@ -115,6 +117,7 @@ My leetcodes
 | [0083-remove-duplicates-from-sorted-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/0xlakhe/leetcode-questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
