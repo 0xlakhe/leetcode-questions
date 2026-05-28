@@ -31,28 +31,20 @@ class Solution {
         // }
         // return ans;
 
-        List<String> ans= new ArrayList<>();
+        HashSet<String> ans= new HashSet<String>();
         HashSet<String> dups= new HashSet<String>();
         
-
-        // String dna=""
-        // for(int j=0; j<10;j++){
-        //     dna+=s.charAt(j);
-        // }
-        // dups.add(dna)
         int i=0;
         int j=10;
         while(i+9<s.length()){
             String dna=s.substring(i,j);
             if(dups.contains(dna)){
-                if(!ans.contains(dna)){
-                    ans.add(dna);
-                }
+                ans.add(dna);
             }
             dups.add(dna);
             i++;
             j++;
         }
-        return ans;
+        return new ArrayList(ans);
     }
 }
