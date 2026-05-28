@@ -24,6 +24,7 @@ My leetcodes
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/0xlakhe/leetcode-questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@ My leetcodes
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
@@ -198,6 +200,7 @@ My leetcodes
 | ------- |
 | [0002-add-two-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
