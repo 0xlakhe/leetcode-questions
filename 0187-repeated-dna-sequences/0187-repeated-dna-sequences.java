@@ -33,13 +33,17 @@ class Solution {
 
         List<String> ans= new ArrayList<>();
         HashSet<String> dups= new HashSet<String>();
-        int i=0;
+        
 
+        // String dna=""
+        // for(int j=0; j<10;j++){
+        //     dna+=s.charAt(j);
+        // }
+        // dups.add(dna)
+        int i=0;
+        int j=10;
         while(i+9<s.length()){
-            String dna="";
-            for(int j=i; j<i+10;j++){
-                dna+=s.charAt(j);
-            }
+            String dna=s.substring(i,j);
             if(dups.contains(dna)){
                 if(!ans.contains(dna)){
                     ans.add(dna);
@@ -47,6 +51,7 @@ class Solution {
             }
             dups.add(dna);
             i++;
+            j++;
         }
         return ans;
     }
