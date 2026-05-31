@@ -10,10 +10,6 @@ class Solution {
             maxfreq=Math.max(maxfreq,map[s.charAt(r)-'A']);
             while((r-l+1)-maxfreq>k){
                 map[s.charAt(l)-'A']--;
-                maxfreq=0;
-                for(int i=0; i<map.length;i++){
-                    maxfreq=Math.max(maxfreq,map[i]);
-                }
                 l+=1;
             }
             if(((r-l-1)-maxfreq)<=k){
