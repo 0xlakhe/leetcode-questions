@@ -15,6 +15,7 @@ class Solution {
             int len=right-left+1;
 
             if(len>=3){
+                //gauss formula
                 ans+=(len-1)*(len-2)/2;
             }
             left=right;
