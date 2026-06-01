@@ -29,6 +29,7 @@ My leetcodes
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/0xlakhe/leetcode-questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -113,6 +114,7 @@ My leetcodes
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
@@ -219,6 +221,7 @@ My leetcodes
 | ------- |
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/0xlakhe/leetcode-questions/tree/master/0198-house-robber) |
+| [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
