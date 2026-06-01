@@ -30,6 +30,7 @@ My leetcodes
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/0xlakhe/leetcode-questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -46,6 +47,7 @@ My leetcodes
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ My leetcodes
 | [0018-4sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
+| [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +124,7 @@ My leetcodes
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
@@ -266,4 +270,8 @@ My leetcodes
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
