@@ -13,27 +13,38 @@ class Solution {
             freq1[letter1- 'a']+=1;
             freq2[letter2-'a']+=1;
         }
-        boolean check1=true;
+        int matches=0;
         for(int i=0;i<26;i++){
-            if(freq1[i]!=freq2[i]){
-                check1=false;
+            if(freq1[i]==freq2[i]){
+                matches+=1;
             }
         }
-        if(check1==true){
+        if(matches==26){
             return true;
         }
         int i=0;
         int j=s1.length();
         while(j<s2.length()){
-            freq2[s2.charAt(i)-'a']-=1;
-            freq2[s2.charAt(j)-'a']+=1;
-            boolean check=true;
-            for(int k=0; k<26;k++){
-                if(freq1[k]!=freq2[k]){
-                    check=false;
-                }
+            int leftIdx=s2.charAt(i)-'a';
+            int rightIdx=s2.charAt(j)-'a';
+
+            if(freq2[leftIdx]==freq1[leftIdx]){
+                matches--;
             }
-            if(check==true){
+            freq2[leftIdx]--;
+            if(freq2[leftIdx]==freq1[leftIdx]){
+                matches++;
+            }
+
+            if(freq1[rightIdx]==freq2[rightIdx]){
+                matches--;
+            }
+            freq2[rightIdx]++;
+            if(freq1[rightIdx]==freq2[rightIdx]){
+                matches++;
+            }
+
+            if(matches==26){
                 return true;
             }
             i++;
