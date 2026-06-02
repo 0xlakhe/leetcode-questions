@@ -32,6 +32,7 @@ My leetcodes
 | [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/0xlakhe/leetcode-questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
@@ -76,6 +77,7 @@ My leetcodes
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -85,6 +87,7 @@ My leetcodes
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/0xlakhe/leetcode-questions/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -112,6 +115,7 @@ My leetcodes
 | [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +130,7 @@ My leetcodes
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -274,4 +279,8 @@ My leetcodes
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
