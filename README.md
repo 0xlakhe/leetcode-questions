@@ -35,6 +35,7 @@ My leetcodes
 | [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/0xlakhe/leetcode-questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [1652-defuse-the-bomb](https://github.com/0xlakhe/leetcode-questions/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ My leetcodes
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
+| [1652-defuse-the-bomb](https://github.com/0xlakhe/leetcode-questions/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
