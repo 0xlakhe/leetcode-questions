@@ -50,6 +50,7 @@ My leetcodes
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
+| [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ My leetcodes
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +135,7 @@ My leetcodes
 | [0643-maximum-average-subarray-i](https://github.com/0xlakhe/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1652-defuse-the-bomb](https://github.com/0xlakhe/leetcode-questions/tree/master/1652-defuse-the-bomb) |
+| [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -256,6 +259,7 @@ My leetcodes
 | ------- |
 | [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -265,6 +269,7 @@ My leetcodes
 | ------- |
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
