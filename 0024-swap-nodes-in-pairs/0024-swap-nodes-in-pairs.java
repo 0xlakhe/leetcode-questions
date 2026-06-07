@@ -25,7 +25,7 @@ class Solution {
         first.next=second.next;
         second.next=first;
         dummy.next=second;
-        ListNode ans=helper(first.next,first);
+        helper(first.next,first);
         return dummy.next;
     }
 }
