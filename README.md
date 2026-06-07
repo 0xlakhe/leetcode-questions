@@ -179,6 +179,7 @@ My leetcodes
 | [0002-add-two-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/0xlakhe/leetcode-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/0xlakhe/leetcode-questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
@@ -245,6 +246,7 @@ My leetcodes
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/0xlakhe/leetcode-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
