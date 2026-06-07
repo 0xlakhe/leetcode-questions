@@ -10,22 +10,14 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        ListNode dummy=new ListNode(0);
-
-        ListNode ans=helper(head,dummy);
-        return ans;
-
-    }
-    public ListNode helper(ListNode head,ListNode dummy){
         if(head==null || head.next==null){
             return head;
         }
         ListNode first=head;
         ListNode second=head.next;
-        first.next=second.next;
+
+        first.next=swapPairs(second.next);
         second.next=first;
-        dummy.next=second;
-        helper(first.next,first);
-        return dummy.next;
+        return second;
     }
 }
