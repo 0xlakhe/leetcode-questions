@@ -185,6 +185,7 @@ My leetcodes
 | [0050-powx-n](https://github.com/0xlakhe/leetcode-questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -253,6 +254,7 @@ My leetcodes
 | [0050-powx-n](https://github.com/0xlakhe/leetcode-questions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/0xlakhe/leetcode-questions/tree/master/2269-find-the-k-beauty-of-a-number) |
