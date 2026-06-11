@@ -188,6 +188,7 @@ My leetcodes
 | [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@ My leetcodes
 | [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/1922-count-good-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/0xlakhe/leetcode-questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
