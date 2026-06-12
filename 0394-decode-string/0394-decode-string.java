@@ -18,11 +18,8 @@ class Solution {
             }else if(ch==']'){
                 int repeat=countStack.pop();
                 String prev=stringStack.pop();
-                StringBuilder temp=new StringBuilder();
-                for(int j=0;j<repeat;j++){
-                    temp.append(currentString);
-                }
-                currentString=prev+temp.toString();
+                String repeated=currentString.repeat(repeat);
+                currentString=prev+repeated;
             }
         }
         return currentString;
