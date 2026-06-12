@@ -107,6 +107,7 @@ My leetcodes
 | [0151-reverse-words-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -187,6 +188,7 @@ My leetcodes
 | [0206-reverse-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/1922-count-good-numbers) |
 ## Stack
@@ -194,6 +196,7 @@ My leetcodes
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
