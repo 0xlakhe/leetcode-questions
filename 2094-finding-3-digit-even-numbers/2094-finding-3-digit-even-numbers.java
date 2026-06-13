@@ -1,5 +1,6 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
+        Arrays.sort(digits);
         List<Integer> ds= new ArrayList<>();
         boolean[] freq=new boolean[digits.length];
         HashSet<Integer> map=new HashSet<>();
@@ -10,9 +11,6 @@ class Solution {
     }
 
     public void helper(int[] digits, boolean[] freq, List<Integer>ds,HashSet<Integer>map){
-        if(ds.size()>=1 && ds.get(0)==0){
-            return;
-        }
         if(ds.size()==3 && ds.get(2)%2!=0){
             return;
         }
@@ -22,6 +20,12 @@ class Solution {
             return;
         }
         for(int i=0;i<digits.length;i++){
+            if(ds.isEmpty() && digits[i] == 0){
+               continue;
+            }
+            if(i > 0 && digits[i] == digits[i - 1] && !freq[i - 1]){
+            continue;
+            }
             if(!freq[i]){
                 freq[i]=true;
                 ds.add(digits[i]);
