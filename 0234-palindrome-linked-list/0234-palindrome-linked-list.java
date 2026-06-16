@@ -9,29 +9,20 @@
  * }
  */
 class Solution {
+    ListNode left;
     public boolean isPalindrome(ListNode head) {
-        
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast!=null&&fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
+        left=head;
+        return checker(head);
+    }
+    public boolean checker(ListNode right){
+        if(right==null){
+            return true;
         }
-        ListNode curr=slow;
-        ListNode prev=null;
-        while(curr!=null){
-            ListNode next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next; 
+        boolean result=checker(right.next);
+        if(right.val!=left.val){
+            return false;
         }
-        while(prev!=null){
-            if(head.val!=prev.val){
-                return false;
-            }
-            head=head.next;
-            prev=prev.next;
-        }
-        return true;
+        left=left.next;
+        return result;
     }
 }
