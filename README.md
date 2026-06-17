@@ -196,6 +196,7 @@ My leetcodes
 | [0231-power-of-two](https://github.com/0xlakhe/leetcode-questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/0xlakhe/leetcode-questions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
@@ -271,6 +272,7 @@ My leetcodes
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/0xlakhe/leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/0xlakhe/leetcode-questions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/1922-count-good-numbers) |
@@ -301,6 +303,7 @@ My leetcodes
 | [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/0xlakhe/leetcode-questions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/0xlakhe/leetcode-questions/tree/master/0342-power-of-four) |
 | [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
