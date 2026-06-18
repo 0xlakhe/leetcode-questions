@@ -202,6 +202,7 @@ My leetcodes
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/0xlakhe/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -277,6 +278,7 @@ My leetcodes
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/1922-count-good-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/0xlakhe/leetcode-questions/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/0xlakhe/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,6 +307,7 @@ My leetcodes
 | [0231-power-of-two](https://github.com/0xlakhe/leetcode-questions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/0xlakhe/leetcode-questions/tree/master/0342-power-of-four) |
 | [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/0xlakhe/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
@@ -340,4 +343,8 @@ My leetcodes
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/0xlakhe/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/0xlakhe/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
