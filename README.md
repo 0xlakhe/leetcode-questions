@@ -8,6 +8,7 @@ My leetcodes
 | ------- |
 | [0001-two-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/0xlakhe/leetcode-questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/0xlakhe/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/0xlakhe/leetcode-questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0018-4sum) |
@@ -105,6 +106,7 @@ My leetcodes
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/0xlakhe/leetcode-questions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/0xlakhe/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/0xlakhe/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
@@ -348,4 +350,8 @@ My leetcodes
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/0xlakhe/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/0xlakhe/leetcode-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
