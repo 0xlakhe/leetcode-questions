@@ -212,6 +212,7 @@ My leetcodes
 | [0094-binary-tree-inorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
 ## Tree
@@ -228,6 +229,7 @@ My leetcodes
 | [0111-minimum-depth-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -245,6 +247,7 @@ My leetcodes
 | [0111-minimum-depth-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -273,6 +276,7 @@ My leetcodes
 | [0111-minimum-depth-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
