@@ -113,6 +113,7 @@ My leetcodes
 | [0125-valid-palindrome](https://github.com/0xlakhe/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -235,6 +236,7 @@ My leetcodes
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -253,6 +255,7 @@ My leetcodes
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -283,6 +286,7 @@ My leetcodes
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -329,6 +333,7 @@ My leetcodes
 | [0040-combination-sum-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/0xlakhe/leetcode-questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
