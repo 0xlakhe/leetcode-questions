@@ -239,6 +239,7 @@ My leetcodes
 | [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/0xlakhe/leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -260,6 +261,7 @@ My leetcodes
 | [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/0xlakhe/leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -272,6 +274,7 @@ My leetcodes
 | [0112-path-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/0xlakhe/leetcode-questions/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -294,6 +297,7 @@ My leetcodes
 | [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/0xlakhe/leetcode-questions/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -304,6 +308,7 @@ My leetcodes
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Math
 |  |
