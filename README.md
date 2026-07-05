@@ -111,6 +111,7 @@ My leetcodes
 | [0008-string-to-integer-atoi](https://github.com/0xlakhe/leetcode-questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/0xlakhe/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/0xlakhe/leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/0xlakhe/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/0xlakhe/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/0xlakhe/leetcode-questions/tree/master/0125-valid-palindrome) |
@@ -214,6 +215,7 @@ My leetcodes
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/0xlakhe/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
