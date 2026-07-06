@@ -20,6 +20,7 @@ My leetcodes
 | [0039-combination-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/0xlakhe/leetcode-questions/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/0xlakhe/leetcode-questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/0xlakhe/leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
@@ -325,6 +326,7 @@ My leetcodes
 | [0009-palindrome-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/0xlakhe/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/0xlakhe/leetcode-questions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/0xlakhe/leetcode-questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/0xlakhe/leetcode-questions/tree/master/0231-power-of-two) |
