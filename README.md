@@ -33,6 +33,7 @@ My leetcodes
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/0xlakhe/leetcode-questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/0xlakhe/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
@@ -54,6 +55,7 @@ My leetcodes
 | [0141-linked-list-cycle](https://github.com/0xlakhe/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -144,6 +146,7 @@ My leetcodes
 | [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/0xlakhe/leetcode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
