@@ -57,6 +57,7 @@ My leetcodes
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/0xlakhe/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -123,6 +124,7 @@ My leetcodes
 | [0125-valid-palindrome](https://github.com/0xlakhe/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/0xlakhe/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
@@ -147,6 +149,7 @@ My leetcodes
 | [0088-merge-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/0xlakhe/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/0xlakhe/leetcode-questions/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/0xlakhe/leetcode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
