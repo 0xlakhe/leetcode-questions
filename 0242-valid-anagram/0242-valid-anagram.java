@@ -4,12 +4,13 @@ class Solution {
             return  false;
         }
         int[] sMap=new int[26];
-        for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-            char ch=t.charAt(i);
-            sMap[c-'a']++;
-            sMap[ch-'a']--;
 
+        char[] sChars = s.toCharArray();
+        char[] tChars = t.toCharArray();
+
+        for(int i=0;i<s.length();i++){
+            sMap[sChars[i]-'a']++;
+            sMap[tChars[i]-'a']--;
         }
         for(int val:sMap){
             if(val!=0){
