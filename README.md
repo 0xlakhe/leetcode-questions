@@ -58,6 +58,7 @@ My leetcodes
 | [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/0xlakhe/leetcode-questions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -127,6 +128,7 @@ My leetcodes
 | [0242-valid-anagram](https://github.com/0xlakhe/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -405,6 +407,7 @@ My leetcodes
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
@@ -423,4 +426,8 @@ My leetcodes
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/0xlakhe/leetcode-questions/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
