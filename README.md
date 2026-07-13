@@ -343,6 +343,7 @@ My leetcodes
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/0xlakhe/leetcode-questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/0xlakhe/leetcode-questions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/0xlakhe/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/0xlakhe/leetcode-questions/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/0xlakhe/leetcode-questions/tree/master/0390-elimination-game) |
@@ -423,6 +424,7 @@ My leetcodes
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/0xlakhe/leetcode-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/0xlakhe/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/0xlakhe/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Trie
@@ -433,4 +435,8 @@ My leetcodes
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/0xlakhe/leetcode-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
