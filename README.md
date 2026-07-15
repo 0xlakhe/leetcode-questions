@@ -137,6 +137,7 @@ My leetcodes
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/0xlakhe/leetcode-questions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -363,6 +364,7 @@ My leetcodes
 | [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
