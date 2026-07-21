@@ -248,6 +248,7 @@ My leetcodes
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0101-symmetric-tree) |
@@ -309,6 +310,7 @@ My leetcodes
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/0xlakhe/leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0101-symmetric-tree) |
@@ -333,6 +335,7 @@ My leetcodes
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/0xlakhe/leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -365,6 +368,7 @@ My leetcodes
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0xlakhe/leetcode-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/0xlakhe/leetcode-questions/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/0xlakhe/leetcode-questions/tree/master/0413-arithmetic-slices) |
@@ -383,6 +387,7 @@ My leetcodes
 | [0040-combination-sum-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/0xlakhe/leetcode-questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/0xlakhe/leetcode-questions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
