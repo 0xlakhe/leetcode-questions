@@ -129,6 +129,7 @@ My leetcodes
 | [0020-valid-parentheses](https://github.com/0xlakhe/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/0xlakhe/leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/0xlakhe/leetcode-questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/0xlakhe/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
@@ -354,6 +355,7 @@ My leetcodes
 | [0013-roman-to-integer](https://github.com/0xlakhe/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/0xlakhe/leetcode-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/0xlakhe/leetcode-questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/0xlakhe/leetcode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/0xlakhe/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/0xlakhe/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
@@ -395,6 +397,7 @@ My leetcodes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/0xlakhe/leetcode-questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/0xlakhe/leetcode-questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
@@ -443,6 +446,7 @@ My leetcodes
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/0xlakhe/leetcode-questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/0xlakhe/leetcode-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/0xlakhe/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/0xlakhe/leetcode-questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
