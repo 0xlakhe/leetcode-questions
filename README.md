@@ -31,6 +31,7 @@ My leetcodes
 | [0136-single-number](https://github.com/0xlakhe/leetcode-questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0xlakhe/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/0xlakhe/leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/0xlakhe/leetcode-questions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/0xlakhe/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -57,6 +58,7 @@ My leetcodes
 | [0141-linked-list-cycle](https://github.com/0xlakhe/leetcode-questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0xlakhe/leetcode-questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/0xlakhe/leetcode-questions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/0xlakhe/leetcode-questions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/0xlakhe/leetcode-questions/tree/master/0219-contains-duplicate-ii) |
@@ -162,6 +164,7 @@ My leetcodes
 | [0075-sort-colors](https://github.com/0xlakhe/leetcode-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/0xlakhe/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/0xlakhe/leetcode-questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/0xlakhe/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/0xlakhe/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -415,6 +418,7 @@ My leetcodes
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/0xlakhe/leetcode-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/0xlakhe/leetcode-questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/0xlakhe/leetcode-questions/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
 ## Merge Sort
@@ -432,6 +436,7 @@ My leetcodes
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/0xlakhe/leetcode-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/0xlakhe/leetcode-questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
