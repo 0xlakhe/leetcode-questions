@@ -145,6 +145,7 @@ My leetcodes
 | [0412-fizz-buzz](https://github.com/0xlakhe/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/0xlakhe/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/0xlakhe/leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/0xlakhe/leetcode-questions/tree/master/1143-longest-common-subsequence) |
 | [1763-longest-nice-substring](https://github.com/0xlakhe/leetcode-questions/tree/master/1763-longest-nice-substring) |
@@ -413,6 +414,7 @@ My leetcodes
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0xlakhe/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/0xlakhe/leetcode-questions/tree/master/0459-repeated-substring-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
